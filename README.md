@@ -1,16 +1,127 @@
-# React + Vite
+# 💼 Hoja de Vida Web – Cristian Sierra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web de hoja de vida desarrollada con **React 18 + Vite** y estilizada con **Tailwind CSS**.  
+El proyecto implementa una arquitectura modular basada en componentes funcionales, diseño responsive y buenas prácticas de organización de código.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🏗️ Arquitectura
 
-## React Compiler
+- Aplicación de Página Única (SPA)
+- Componentes funcionales
+- JSX estructurado
+- Estilización utility-first con Tailwind CSS
+- Configuración optimizada mediante Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tecnologías Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- Node.js
+- npm
+
+---
+
+## 📂 Estructura del Proyecto
+
+```
+src/
+ ├── App.jsx
+ ├── main.jsx
+ ├── index.css
+public/
+index.html
+package.json
+vite.config.js
+```
+
+---
+## 🏭 Build de Producción
+
+Para generar una versión optimizada para producción:
+
+```bash
+npm run build
+```
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+- Desarrollar una SPA ligera y optimizada.
+- Aplicar principios de diseño responsive.
+- Mantener una estructura escalable y organizada.
+- Presentar el perfil profesional en un formato web moderno e interactivo.
+
+---
+
+# 💼 Web Resume – Cristian Sierra
+
+A web-based resume application built with **React 18 + Vite** and styled using **Tailwind CSS**.  
+This project follows a modular, component-based architecture with responsive design principles and clean code practices.
+
+---
+
+## 🏗️ Architecture
+
+- Single Page Application (SPA)
+- Functional Components
+- Structured JSX
+- Utility-first styling with Tailwind CSS
+- Optimized build configuration using Vite
+
+---
+
+## ⚙️ Tech Stack
+
+- React 18
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- Node.js
+- npm
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── App.jsx
+ ├── main.jsx
+ ├── index.css
+public/
+index.html
+package.json
+vite.config.js
+```
+
+---
+## 🏭 Production Build
+
+To generate an optimized production build:
+
+```bash
+npm run build
+```
+
+---
+
+## 🎯 Project Goals
+
+- Build a lightweight and optimized SPA.
+- Apply responsive UI principles.
+- Maintain scalable and clean project structure.
+- Present professional experience in a modern web format.
+
+---
+
+## 👨‍💻 Author
+
+**Cristian Sierra**  
+Desarrollador de Software  
+Backend | Python | DevOps | React
